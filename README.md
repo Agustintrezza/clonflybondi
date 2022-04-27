@@ -6,7 +6,7 @@ Através de la API se puede obtener, diferente información almacenada en la bas
 
 El backend esta subido a Heroku y el frontend en Netlify.
 
-AQUI SE PUEDE VER LA APLICACION: https://clonflybondiagus.netlify.app/
+AQUI SE PUEDE VER LA APLICACION: https://clonflybondiagus.netlify.app
 
 
 Espero les guste! saludos!! Agustin
